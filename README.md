@@ -1,2 +1,2 @@
-# emailpermutator
+# Email Permutator
 Email Permutator
